@@ -25,4 +25,7 @@ This will demonstrate my ability to:
      use the <em></em> and <strong></strong> functions to put emphasis on the text
      use the <a> href="protocol://domain/path"</a> anchor function to create absolute
         links outside of the site.
-    use the <a> href="path" </a> function to create relative links inside our directory
+     use the <a> href="path" </a> function to create relative links inside our directory
+     use the <ul> function to create unordered lists
+     and the <ol> function to create ordered lists
+4. It will also require me to do several commits to gitHub and I will become more familiar with this process
