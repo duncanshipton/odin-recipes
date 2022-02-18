@@ -4,28 +4,44 @@
           box-sizing: border-box;
     background-color: cadetblue;
     color: rgb(110, 56, 56);
-    border: 1em, brown, dotted;
-    
     margin: 10px auto;
 }
 
 .heading {
+    border: 2px dotted rgb(110, 56, 56);
+    border-radius: 12px;
     width: 500px;
+    text-align: center;
 }
 
-.recipe-master-list {
-    width: 500px;
+.subheading {
+    text-align: center;
 }
 
 .list {
     width: 500px;
+    border: 2px dotted rgb(110, 56, 56);
+    border-radius: 12px;
+    text-align: center;
+    padding: 0px;
 }
+
+.list-img {
+    box-sizing: border-box;
+    border-radius: 12px;
+}
+
 .body-text {
-    width: 500px;
+    max-width: 500px;
+    border: 2px dotted rgb(110, 56, 56);
+    border-radius: 12px;
+    padding: 16px;
+    text-align: left;
 }
 
 .img {
     width: max-content;
+    border-radius: 12px;
 }
 
 .copyright {
